@@ -1,0 +1,39 @@
+{
+  "name": "sanity-plugin-dark-mode",
+  "version": "0.0.0",
+  "description": "Dark mode for sanity",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d ./ --copy-files",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimPaow/sanity-plugin-dark-mode.git"
+  },
+  "keywords": [
+    "dark",
+    "mode",
+    "sanity",
+    "darkmode",
+    "blue",
+    "kimpaow",
+    "sanity",
+    "io"
+  ],
+  "author": "kim björkman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KimPaow/sanity-plugin-dark-mode/issues"
+  },
+  "homepage": "https://github.com/KimPaow/sanity-plugin-dark-mode#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/plugin-proposal-object-rest-spread": "^7.7.4",
+    "@babel/preset-react": "^7.7.4",
+    "@babel/cli": "^7.7.4"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
