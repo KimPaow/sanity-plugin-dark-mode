@@ -2,7 +2,7 @@
 
 Based on the new dark mode available in the Sanity docs. 
 
-![preview image](https://github.com/KimPaow/sanity-plugin-darkmode/raw/master/src/images/preview.png)
+![preview image](https://github.com/KimPaow/sanity-plugin-dark-mode/raw/master/src/images/preview.png)
 
 ## Installation
 
