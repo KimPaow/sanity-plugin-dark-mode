@@ -30,7 +30,7 @@
   --main-navigation-color: #145eda;
 
   --main-navigation-color--inverted: color(var(--main-navigation-color) contrast(80%));
-  
+
   --dialog-header-color: var(--component-bg);
   --dialog-header-color--inverted: var(--body-text);
   --header-height: 3rem;
@@ -81,4 +81,8 @@
   --pre-color: var(--gray-dark);
   --pre-border-color: #ccc;
   --pre-scrollable-max-height: 20em;
+}
+
+[data-ui="Card"] * {
+  mix-blend-mode: normal !important;
 }

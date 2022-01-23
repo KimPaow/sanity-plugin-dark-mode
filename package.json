@@ -1,6 +1,6 @@
 {
   "name": "sanity-plugin-dark-mode",
-  "version": "0.0.32",
+  "version": "0.0.33",
   "description": "Dark mode for sanity",
   "main": "index.js",
   "scripts": {
